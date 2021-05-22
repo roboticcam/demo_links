@@ -20,10 +20,18 @@ In 2019, my postdoctoral fellow Dr. Jason Traish and I led the winning of the IE
 ### 5. My computer vision Demos in YouTube###
 Between 2004 to 2009, I have built at least 20 different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including the hard work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
 
-* [My Computer vision YouTube Channel one](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q)
+* [YouTube Demo Channel one](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q), circa 2005-2009, six demo systems. 
+* [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), these two channel may have overlaping videos
+* [My TV Interview](https://www.youtube.com/watch?v=49pYnRuWAaw), a TV news team came to interview me to talk about my computer vision work in 2009.
+
 
 These are some famous examples:
 
 ### 6. My student's computer vision Demos in YouTube###
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
+
+* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009
+* [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
+
+
 
