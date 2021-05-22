@@ -1,7 +1,7 @@
 Over the past decade and half, I have developed many research and engineering prototypes, demos, notes and projects. They are scattered all over the Web. I organize them in this single repository:
 
 ### [1. Cloud demo: ridll.com](http://ridll.com) ###
-**RIDLL** standards for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my team since 2016. Some notable examples include:  
+**RIDLL** is an acronym for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my team since 2016. Some notable examples include:  
 * [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking, completed in 2017 by my team. Note all the displaying data are synthetically generated.
 * [Automatic word-completion tool for writing Job Descriptions](http://ridll.com/jobgenerator/) completed in 2016 by my team (it takes about 30 seconds to load)
 * [Tool for the shortest maitanaince planning using TSM algorithm](http://ridll.com/activequery/) completed in 2020 by my team
