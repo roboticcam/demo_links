@@ -2,7 +2,7 @@ Over the past decade and half, my talented team and I have developed many resear
 
 ### [1. Cloud demo: ridll.com](http://ridll.com) ###
 **RIDLL** is an acronym for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my talented team since 2016. Some notable examples include:  
-* [Visualization for What-If scenarios planning for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking, completed in 2017. Note all the displaying data are synthetically generated.
+* [Visualization for What-If scenarios planning for sydney train networks](http://ridll.com/foresight/) The number in the circle represents the estimated number of people on the train using our prediction algorithm based on tap-on/tap-off information. Click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking, completed in 2017. Note all the displaying data are synthetically generated.
 * [Automatic word-completion tool for writing Job Descriptions](http://ridll.com/jobgenerator/) completed in 2016. (it may take about 30 seconds to load)
 * [Tool for optimal maitanaince planning using TSM algorithm](http://ridll.com/activequery/) completed in 2020.
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/) completed in 2016.
