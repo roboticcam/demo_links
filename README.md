@@ -15,7 +15,7 @@ When I was 30, working at Charles Sturt University as a lectuer in 2018, I becam
 #### *Dr Richard Xu, a lecturer in computer science at the School of Accounting and Computer Science, has begun leading a three-year project to develop a truck-mounted prototype with video camera, sonar and radar to automate a mining process when large rocks jam the rock crusher. The device could prevent costly shutdowns of plant. Newcrest Mines provided $900,000 to fund the project.* ####
 
 ### [4. World Champion in IEEE Games Conference's Micro-RTS competition](https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results) ###
-In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Confernece on Game's Micro-RTS competition. Our AI bot, UTS_Imass has a significantly higher win rate compare to the second best team. 
+In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Games Conference's Micro-RTS competition. Our Reinforcement Learning based AI bot, * UTS_Imass * has a significantly higher win rate compare to the second best team. 
 You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Competition Site" link to browse the above Goolge document in the same way.
 
 ### 5. My computer vision Demos in YouTube ###
