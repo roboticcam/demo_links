@@ -1,4 +1,4 @@
-Over the past decade and half, I have developed many research and engineering prototype/demos/notes/projects. They are scattered all over the Web. I organize them in this single repository:
+Over the past decade and half, I have developed many research and engineering prototype, demos, notes and projects. They are scattered all over the Web. I organize them in this single repository:
 
 ### [1. Cloud demo: ridll.com](http://ridll.com) ###
 **RIDLL** standards for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my team since 2016. Some notable examples include:  
