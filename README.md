@@ -32,6 +32,9 @@ Fortunately, since 2017, I finally have a laboratory space at UTS to continue co
 * [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009 developed by my research and engineering team. You can see this is a modern version of what I built previously.
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
-### [7. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
+### [7. Deep Learning Sydney meetup group](https://www.meetup.com/Deep-Learning-Sydney/) ###
+This is one of the largest AI-focused meetup group I founded in 2016. It has close to 4500 members!
+
+### [8. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
 Last but definitely not least, my world-famous constantly updated machine learning notes! It currently has 5000 GitHub stars!
 
