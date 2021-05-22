@@ -19,6 +19,7 @@ In 2019, my postdoctoral fellow Dr. Jason Traish and I led the winning of the IE
 
 ### 5. My computer vision Demos in YouTube###
 Between 2004 to 2009, I have built at least 20 different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including the hard work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
+[YouTube Channel 1](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q)
 
 These are some famous examples:
 
