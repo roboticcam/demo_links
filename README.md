@@ -14,7 +14,5 @@ This is link to the Charles Sturt University's annual 2008 report, it contains t
 <br>
 I was only a 30-year-old lecturer at the time, and I became responsible for a huge industry research team composed of associate professors!
 
-### [World Champian in IEEE Games Micro-RTS competition](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
-In 2019, my postdoc Dr Jason Traish has led the charge to won the IEEE Confernece on Games's Micro-RTS competition. You can nagvative to the above Goolge doc by going ot IEEE Games Conference's official website [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/), and click the 
-
-https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results
+### [World Champian in IEEE Games Micro-RTS competition](https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results) ###
+In 2019, my postdoctoral fellow Dr. Jason Traish and I led the winning of the IEEE Confernece on Game's Micro-RTS competition. Equally, You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Complete Site" link to to browse the above Goolge document in the same way.
