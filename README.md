@@ -6,7 +6,7 @@
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/) 
 
 ### [2. List of Funded Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
-This is my official UTS website which shows all the projects that I am the first Chief Investigator since 2015. The funded project names are extracted from the UTS Grants database. In addition, two Australian companies requested not to list the project name due to commercial confidence.
+This is my official UTS website which shows all the projects that I am the first Chief Investigator since 2015. The funded project names are extracted from the UTS Grants database. Include, *Transport for NSW, Sydney Trains, NSW Department of Finance, Services and Innovation, CSIRO, Ausgrid, CCH Australia, DSTG, Office of Naval Research, NSW Department of Primary Industry,Food Agility CRC*. In addition, two Australian companies requested not to list the project name due to commercial confidence.
 
 ### [3. Leadership in 900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
 This is link to the Charles Sturt University's annual 2008 report, it contains the following paragraph:  
