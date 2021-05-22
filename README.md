@@ -23,7 +23,7 @@ Between 2004 to 2009, I have built at least 20 different AI systems based on com
 
 * [YouTube Demo Channel one](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q), circa 2005-2009, six demo systems. 
 * [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), note that these two channels have overlaping videos.
-* [My TV Interview](https://www.youtube.com/watch?v=49pYnRuWAaw), A TV news team came to interview me to talk about my computer vision work in 2009.
+* [My TV Interview with Prime TV](https://www.youtube.com/watch?v=49pYnRuWAaw), Prime TV news team came to interview me at CSU to talk about my computer vision work in 2009.
 
 
 These are some famous examples:
