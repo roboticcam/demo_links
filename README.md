@@ -1,8 +1,8 @@
-* ### [ridll.com](http://ridll.com) ###
+### [ridll.com](http://ridll.com) ###
 **RIDLL** standards for Richard Xu's Deep Learning Lab: This Cloud based demo website has about collections of 9 of my engineers/students research demos works since 2016. Some notable examples include:  
-  [Automatic word-completion for Job Descriptions](http://ridll.com/jobgenerator/)  
-  [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/)  
-  [Natural Language to SQL Translation](http://ridll.com/nlp2sql/)  
+* [Automatic word-completion for Job Descriptions](http://ridll.com/jobgenerator/)  
+* [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/)  
+* [Natural Language to SQL Translation](http://ridll.com/nlp2sql/)  
 
 
 
