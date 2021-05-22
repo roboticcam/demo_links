@@ -18,5 +18,10 @@ I was only a 30-year-old lecturer at the time, and I became responsible for a hu
 In 2019, my postdoctoral fellow Dr. Jason Traish and I led the winning of the IEEE Confernece on Game's Micro-RTS competition. Equally, You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Complete Site" link to to browse the above Goolge document in the same way.
 
 ### 5. My computer vision Demos in YouTube###
-Since 2004, I have built at least 20 different AI systems based on computer vision. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including the hard work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
+Between 2004 to 2009, I have built at least 20 different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including the hard work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
+
+These are some famous examples:
+
+### 6. My student's computer vision Demos in YouTube###
+Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
