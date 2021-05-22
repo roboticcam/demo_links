@@ -5,7 +5,7 @@
 * [Interface for the shortest maitanaince plan using TSM algorithm](http://ridll.com/activequery/) completed in 2020 by my team
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/) completed in 2016 by my team
 
-### [2. List of Funded Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
+### [2. List of Funded Industry Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
 This is my official UTS website which shows all the projects that I am the first Chief Investigator since 2015. The funded project names are extracted from the UTS Grants database. Include, *Transport for NSW, Sydney Trains, NSW DFSI, CSIRO, Ausgrid, CCH Australia, DSTG, Office of Naval Research, NSW DPI,Food Agility CRC*. In addition, two Australian companies requested not to list the project name due to commercial confidence.
 
 ### [3. Leadership in 900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
