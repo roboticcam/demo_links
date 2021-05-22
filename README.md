@@ -1,3 +1,5 @@
+Over the years, I have developed a lot of research and engineering prototype/products/notes/projects, scattered all over the Web. I organize them in this single repository:
+
 ### [1. ridll.com](http://ridll.com) ###
 **RIDLL** standards for Richard Xu's Deep Learning Lab: This Cloud based demo website has about nine research demos works by my team since 2016. Some notable examples include:  
 * [Automatic word-completion tool for writing Job Descriptions](http://ridll.com/jobgenerator/) completed in 2016 by my team (it takes about 30 seconds to load)
