@@ -10,7 +10,7 @@ This is my official UTS website which shows all the projects that I am the first
 
 ### [3. Leadership in 900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
 This is link to the Charles Sturt University's annual 2008 report, it contains the following paragraph:  
-*Dr Richard Xu, a lecturer in computer science at the School of Accounting and Computer Science, has begun leading a three-year project to develop a truck-mounted prototype with video camera, sonar and radar to automate a mining process when large rocks jam the rock crusher. The device could prevent costly shutdowns of plant. Newcrest Mines provided $900,000 to fund the project.*  
+####*Dr Richard Xu, a lecturer in computer science at the School of Accounting and Computer Science, has begun leading a three-year project to develop a truck-mounted prototype with video camera, sonar and radar to automate a mining process when large rocks jam the rock crusher. The device could prevent costly shutdowns of plant. Newcrest Mines provided $900,000 to fund the project.*####  
 <br>
 I was only a 30-year-old lecturer at the time, and I became responsible for a huge industry research team composed of associate professors!
 
