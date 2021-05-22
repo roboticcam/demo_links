@@ -11,16 +11,10 @@
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/)  
 
 
+### [List of Funded Contractural Research Projects where I am the first Chief Investigator](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
+This is my official UTS website where funded project names are extracted from the UTS Grants database. In addition, two Australian companies requested not to list the project name due to commercial confidence.
 
-
-### [Neural Networks Gaussian Process and Neural Tangent Kernel Initialization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
-
-The detailed derivation of (1) Neural Network Gaussian process using central limit theorem (2) Neural Tangent Kernel (NTK) for initialization. I also tried to give people a brief introduction to what is Gaussian process and kernel method to make this tutorial more complete.
-详细推导（1）使用中心极限定理的神经网络高斯过程（2）神经正切核（NTK）进行初始化. 我还尝试向大家简要介绍什么是高斯过程和内核方法，以使本教程更加完整。
-
-* ### [Infinite Depth: NeuralODE and Adjoint Equation](https://github.com/roboticcam/machine-learning-notes/blob/master/files/neuralODE_Adjoint.pdf) ###
-
-Discuss Neural ODE and in particular the use of adjoint equation in Parameter training
-讨论神经ODE，尤其是在参数训练中使用伴随方程
-
-http://ridll.com/
+### [My leadership in 900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
+This is the Charles Sturt University's annual 2008 report, and you search through this pdf by my name "Richard Xu", you will find the following paragraph:   
+*Dr Richard Xu, a lecturer in computer science at the School of Accounting and Computer Science, has begun leading a three-year project to develop a truck-mounted prototype with video camera, sonar and radar to automate a mining process when large rocks jam the rock crusher. The device could prevent costly shutdowns of plant. Newcrest Mines provided $900,000 to fund the project.*  
+I am only a 30-year-old lecturer at the time, and I became responsible for a huge industry research team composed of associate professors!
