@@ -25,9 +25,6 @@ Between 2004 to 2009, I have built at least 20 different AI systems based on com
 * [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), note that these two channels have overlaping videos.
 * [My TV Interview with Prime TV](https://www.youtube.com/watch?v=49pYnRuWAaw), Prime TV news team came to interview me at CSU to talk about my computer vision work in 2009.
 
-
-These are some famous examples:
-
 ### 6. My student's computer vision Demos in YouTube ###
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
