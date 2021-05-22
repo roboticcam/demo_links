@@ -1,5 +1,5 @@
 ## [ridll.com](http://ridll.com) ##
-RIDLL standards for Richard Xu's Deep Learning Lab: This has a collection of my engineers/students research demos works since 2016. Some notable examples include:
+###RIDLL### standards for Richard Xu's Deep Learning Lab: This has a collection of my engineers/students research demos works since 2016. Some notable examples include:
 
 
 
