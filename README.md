@@ -1,6 +1,7 @@
-### [RIDLL Cloud Demo (Richard's Deep Learning Lab)](http://ridll.com) ###
+# [ridll.com](http://ridll.com) #
 
-This has a collection of my engineers/students works
+RIDLL standards for Richard Xu's Deep Learning Lab: This has a collection of my engineers/students research demos works since 2016. Some notable examples include:
+
 
 
 * ### [Neural Networks Gaussian Process and Neural Tangent Kernel Initialization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
