@@ -17,7 +17,7 @@ This is link to the Charles Sturt University's annual 2008 report, it contains t
 I was only a 30-year-old lecturer at the time, and I became responsible for a huge industry research team composed of associate professors!
 
 ### [4. World Champion in IEEE Games Conference's Micro-RTS competition](https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results) ###
-In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Confernece on Game's Micro-RTS competition. Our AI bot, UTS_Imass has a significant win rate compare to the second best team. 
+In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Confernece on Game's Micro-RTS competition. Our AI bot, UTS_Imass has a significantly higher win rate compare to the second best team. 
 You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Competition Site" link to browse the above Goolge document in the same way.
 
 ### 5. My computer vision Demos in YouTube ###
