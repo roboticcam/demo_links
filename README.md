@@ -27,7 +27,7 @@ Between 2006 to 2009, I have built at least a dozen state-of-the-art AI systems 
 ### 6. My student's computer vision Demos in YouTube ###
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
-* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2019 developed by my research and engineering team. You can see this is a modern version of what I built previously.
+* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2019 developed by my research and engineering team. You can see this is a modern version of what I built previously (now using Deep Learning!)
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
 ### [7. Deep Learning Sydney meetup group](https://www.meetup.com/Deep-Learning-Sydney/) ###
