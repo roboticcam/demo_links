@@ -38,6 +38,10 @@ This is one of the largest AI-focused meetup group I founded in 2016. It has clo
 ### [8. My LinkedIn](https://www.linkedin.com/in/richard-xu-0221a943/) ###
 I am super connected with industry in Australia and internationally. In the past five years, I have interacted with at least 136 companies in ASX200. I have 12,000+ LinkedIn contacts.
 
-### [9. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
+### [9. My Publications](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) ###
+* I published at many top international conferences, including AAAI, IJCAI, ECAI, ECCV, AI-STATS and ICDM 
+* also published at many top IEEE Transactions: IEEE-(T-NNLS, T-Image Processing, T-Signal Processing, T-KDE, T-Mobile Computing and T-Cybernetics).
+
+### [10. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
 Last but definitely not least, my world-famous constantly updated machine learning notes! It currently has 5000 GitHub stars!
 
