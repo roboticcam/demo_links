@@ -22,8 +22,8 @@ You can visit the official website of IEEE Games Conference [https://ieee-cog.or
 Between 2004 to 2009, I have built at least 20 different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including the hard work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
 
 * [YouTube Demo Channel one](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q), circa 2005-2009, six demo systems. 
-* [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), these two channel may have overlaping videos
-* [My TV Interview](https://www.youtube.com/watch?v=49pYnRuWAaw), a TV news team came to interview me to talk about my computer vision work in 2009.
+* [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), note that these two channels have overlaping videos.
+* [My TV Interview](https://www.youtube.com/watch?v=49pYnRuWAaw), A TV news team came to interview me to talk about my computer vision work in 2009.
 
 
 These are some famous examples:
