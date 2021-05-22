@@ -1,7 +1,7 @@
 Over the past decade and half, I have developed many research and engineering prototype/demos/notes/projects. They are scattered all over the Web. I organize them in this single repository:
 
 ### [1. ridll.com](http://ridll.com) ###
-**RIDLL** standards for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos works by my team since 2016. Some notable examples include:  
+**RIDLL** standards for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my team since 2016. Some notable examples include:  
 * [Automatic word-completion tool for writing Job Descriptions](http://ridll.com/jobgenerator/) completed in 2016 by my team (it takes about 30 seconds to load)
 * [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking, completed in 2017 by my team. Note all the displaying data are synthetically generated.
 * [Tool for the shortest maitanaince planning using TSM algorithm](http://ridll.com/activequery/) completed in 2020 by my team
@@ -29,7 +29,7 @@ Between 2004 to 2009, I have built at least 20 different AI systems based on com
 ### 6. My student's computer vision Demos in YouTube ###
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
-* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009 led by Dr Jason Traish. You can see this is a modern version of what I built previously.
+* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009 developed by my research and engineering team. You can see this is a modern version of what I built previously.
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
 ### [7. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
