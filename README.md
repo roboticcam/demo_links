@@ -17,11 +17,11 @@ This is link to the Charles Sturt University's annual 2008 report, it contains t
 I was only a 30-year-old lecturer at the time, and I became responsible for a huge industry research team composed of associate professors!
 
 ### [4. World Champion in IEEE Games Conference's Micro-RTS competition](https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results) ###
-In 2019, my postdoctoral fellow Dr. Jason Traish led a team to win the IEEE Confernece on Game's Micro-RTS competition. Our AI bot, UTS_Imass has a significant win rate compare to the second best team. 
+In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Confernece on Game's Micro-RTS competition. Our AI bot, UTS_Imass has a significant win rate compare to the second best team. 
 You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Competition Site" link to browse the above Goolge document in the same way.
 
 ### 5. My computer vision Demos in YouTube ###
-Between 2004 to 2009, I have built at least 20 different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including research, coding, installation, purchase, and even the hard carpentary work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
+Between 2006 to 2009, I have built at least a dozen different AI systems based on computer vision at CSU. In addition to being a researcher, I am also an excellent engineer. I built most of these systems myself, including research, coding, purchasing, and even the hard carpentary work of installing the cameras. Please note that I have uploaded these video demos to YouTube at different times. I did not try to centralize them. Here are the links to these video channels:
 
 * [YouTube Demo Channel one](https://www.youtube.com/channel/UC-k-IImevvnN1J6fYhJMA4Q) and [YouTube Demo Channel two](https://www.youtube.com/channel/UC6U2WWd9xHebIpwCkGDZLkg), circa 2005-2009, nine demo systems. note that these two channels have overlaping videos.
 * [My TV Interview with Prime TV](https://www.youtube.com/watch?v=49pYnRuWAaw), Prime TV news team came to interview me at CSU to talk about my computer vision work in 2009.
