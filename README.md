@@ -4,7 +4,7 @@ Over the past 16 years, I have developed a lot of research and engineering proto
 **RIDLL** standards for Richard Xu's Deep Learning Lab: This Cloud based demo website has about nine research demos works by my team since 2016. Some notable examples include:  
 * [Automatic word-completion tool for writing Job Descriptions](http://ridll.com/jobgenerator/) completed in 2016 by my team (it takes about 30 seconds to load)
 * [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking, completed in 2017 by my team
-* [Interface for the shortest maitanaince plan using TSM algorithm](http://ridll.com/activequery/) completed in 2020 by my team
+* [Tool for the shortest maitanaince planning using TSM algorithm](http://ridll.com/activequery/) completed in 2020 by my team
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/) completed in 2016 by my team
 
 ### [2. List of Funded Industry Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
