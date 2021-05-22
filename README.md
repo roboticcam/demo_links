@@ -4,13 +4,6 @@
 * [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/)  
 
-### [ridll.com](http://ridll.com) ###
-**RIDLL** standards for Richard Xu's Deep Learning Lab: This Cloud based demo website has about collections of 9 of my engineers/students research demos works since 2016. Some notable examples include:  
-* [Automatic word-completion for Job Descriptions](http://ridll.com/jobgenerator/)  
-* [Visualization for What-If scenarios for sydney train networks](http://ridll.com/foresight/) click a moving train to bring up a timetable to create a what-if scenario - it also support multi-screen-tasking
-* [Natural Language to SQL Translation](http://ridll.com/nlp2sql/)  
-
-
 ### [List of Funded Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
 This is my official UTS website which shows all the projects that I am the first Chief Investigator since 2015. The funded project names are extracted from the UTS Grants database. In addition, two Australian companies requested not to list the project name due to commercial confidence.
 
