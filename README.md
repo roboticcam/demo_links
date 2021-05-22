@@ -35,6 +35,9 @@ Fortunately, since 2017, I finally have a laboratory space at UTS to continue co
 ### [7. Deep Learning Sydney meetup group](https://www.meetup.com/Deep-Learning-Sydney/) ###
 This is one of the largest AI-focused meetup group I founded in 2016. It has close to 4500 members!
 
-### [8. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
+### [8. My LinkedIn](https://www.linkedin.com/in/richard-xu-0221a943/) ###
+I am super connected with industry in Australia and internationally. In the past five years, I have interacted with at least 136 companies in ASX200. I have 12,000+ LinkedIn contacts.
+
+### [9. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
 Last but definitely not least, my world-famous constantly updated machine learning notes! It currently has 5000 GitHub stars!
 
