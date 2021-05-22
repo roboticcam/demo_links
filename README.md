@@ -1,6 +1,7 @@
-# demo_links
+### [RIDLL Cloud Demo (Richard's Deep Learning Lab)](http://ridll.com) ###
 
-# Infinity in Deep Learning 深度学习“无限”精彩
+This has a collection of my engineers/students works
+
 
 * ### [Neural Networks Gaussian Process and Neural Tangent Kernel Initialization](https://github.com/roboticcam/machine-learning-notes/blob/master/files/ntk_init_nngp.pdf) ###
 
