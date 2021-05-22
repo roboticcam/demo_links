@@ -34,5 +34,5 @@ Fortunately, since 2017, I finally have a laboratory space at UTS to continue co
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
 ### [7. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
-Last but definitely not least, my world-famous constantly updated machine learning notes!
+Last but definitely not least, my world-famous constantly updated machine learning notes! It currently has 5000 GitHub stars!
 
