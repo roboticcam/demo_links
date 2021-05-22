@@ -1,4 +1,4 @@
-Over the past decade and half, my talented team and I have developed many research and engineering prototypes, demos, notes and projects. They are scattered all over the Web. I organize them in this single repository:
+Over the past decade and half, my talented team and I have developed many research and engineering prototypes, demos, notes and projects. They are scattered all over the Web. Therefore, I organized them into a single repository:
 
 ### [1. Cloud demo: ridll.com](http://ridll.com) ###
 **RIDLL** is an acronym for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my talented team since 2016. Some notable examples include:  
