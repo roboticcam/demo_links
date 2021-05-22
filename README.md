@@ -10,7 +10,7 @@ In the past 15 years, my talented team and I have developed many research and en
 ### [2. List of Funded Industry Contractural Research Projects](https://profiles.uts.edu.au/YiDa.Xu/grants) ###
 This is my official UTS website which shows all the projects that I am the first Chief Investigator since 2015. The funded project names are extracted from the UTS Grants database. My research partners include, *Transport for NSW, Sydney Trains, NSW DFSI, Magellan financial group, CSIRO, Ausgrid, CCH Australia, DSTG, Office of Naval Research, NSW DPI,Food Agility CRC (with Dairy Australia, Coles, USYD, CSU and DataGene)*. In addition, two Australian companies requested not to list the company & project name due to commercial confidence.
 
-### [3. Leading $900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
+### [3. Lead $900K Newcrest Mining project](https://cdn.csu.edu.au/__data/assets/pdf_file/0005/2930594/AR08.pdf) ###
 When I was 30, working at Charles Sturt University as a lectuer in 2008, I became in charge of a large industry research team composed of senior lecturers and even associate professors! This is a link to the 2008 annual report from CSU, which contains the following paragraph:
 #### *Dr Richard Xu, a lecturer in computer science at the School of Accounting and Computer Science, has begun leading a three-year project to develop a truck-mounted prototype with video camera, sonar and radar to automate a mining process when large rocks jam the rock crusher. The device could prevent costly shutdowns of plant. Newcrest Mines provided $900,000 to fund the project.* ####
 
