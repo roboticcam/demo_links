@@ -31,7 +31,7 @@ These are some famous examples:
 ### 6. My student's computer vision Demos in YouTube ###
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
-* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009
+* [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2009, you can see this is a modern version of what I built previously.
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
 
