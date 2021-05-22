@@ -31,7 +31,7 @@ Fortunately, since 2017, I finally have a laboratory space at UTS to continue co
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
 
 ### [7. Deep Learning Sydney meetup group, 4500 members!](https://www.meetup.com/Deep-Learning-Sydney/) ###
-This is one of the largest AI-focused meetup group I founded (together with my co-founder) in 2016. It has close to 4500 members.
+This is one of the largest AI-focused meetup group I founded (together with my co-founder) in 2016. It has close to 4500 members. It is comprised of industry data scientists, scholars, researchers, start-ups and also talent recruiters.
 
 ### [8. My LinkedIn](https://www.linkedin.com/in/richard-xu-0221a943/) ###
 I am super connected with industry in Australia and internationally. In the past five years, I have interacted with at least 136 companies in ASX200. I have 12,000+ LinkedIn contacts.
