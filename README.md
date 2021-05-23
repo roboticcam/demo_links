@@ -38,7 +38,7 @@ I am super connected with industry in Australia and internationally. In the past
 
 ### 9. International Collabration and outreach ###
 * I had a funded UTS research project, with China/Middle East e-commerce retailer company, [https://www.jollychic.com/](https://www.jollychic.com/), 2018 - 2019
-* I visited Singapore in 2019 and met with many local business leaders and large companies. 
+* I visited Singapore in 2019 and met with many [Singaporian business leaders and entrepreneurs]() 
 
 ### [10. My Publications](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) ###
 * I published at many top international conferences, including AAAI, IJCAI, ECAI, ECCV, AI-STATS and ICDM 
