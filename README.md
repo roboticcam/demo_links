@@ -45,7 +45,7 @@ I am super connected with industry in Australia and internationally. In the past
 * I also published at many prestigeous IEEE Transactions: IEEE-(T-NNLS, T-Image Processing, T-Signal Processing, T-KDE, T-Mobile Computing and T-Cybernetics).
 * I have co-authored with many world-leading scholars, including [Chair Prof Arnoud Doucet](http://www.stats.ox.ac.uk/~doucet/) of Oxford University & DeepMind, [Prof Zoubin Gharamanni](http://mlg.eng.cam.ac.uk/zoubin/) of Cambridge University & Chief Scientist of Uber, and [Prof Yike Guo](https://www.imperial.ac.uk/people/y.guo) of Imperial College of London & Fellow of the Royal Academy of Engineering. 
 
-### 11. International Impact ###
+### 11. International Knolwedge dissemination ###
 * In 2018, I have the privilege of being invited by [Dr Kai-Fu Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee) (founding CEO of Google China, MSRA, Sinovation Ventures) to become a master teacher in his machine learning summer camp [DeeCamp](https://deecamp.com/), together with [Prof Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng) (founder of Google Brain, co-founder of Coursera) and [Prof John Hopcroft](https://en.wikipedia.org/wiki/John_Hopcroft) (Turing Award winner) and twelve other celebrated AI researchers around the world. I was invited again in 2019 and will be again in 2021.
 
 ### [12. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
