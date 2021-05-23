@@ -36,10 +36,18 @@ This is one of the largest AI-focused meetup group I founded (together with my c
 ### [8. My LinkedIn](https://www.linkedin.com/in/richard-xu-0221a943/) ###
 I am super connected with industry in Australia and internationally. In the past five years, I have interacted with at least 136 companies in ASX200. I have 12,000+ LinkedIn contacts.
 
-### [9. My Publications](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) ###
-* I published at many top international conferences, including AAAI, IJCAI, ECAI, ECCV, AI-STATS and ICDM 
-* I also published at many top IEEE Transactions: IEEE-(T-NNLS, T-Image Processing, T-Signal Processing, T-KDE, T-Mobile Computing and T-Cybernetics).
+### 9. International Collabration and outreach ###
+* I had a funded UTS research project, with China/Middle East e-commerce retailer company, [https://www.jollychic.com/](https://www.jollychic.com/), 2018 - 2019
+* I visited Singapore in 2019 and met with many local business leaders and large companies. 
 
-### [10. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
-Last but definitely not least, my world-famous constantly updated machine learning notes! It currently has 5000 GitHub stars!
+### [10. My Publications](https://scholar.google.com.au/citations?user=ykOUWa4AAAAJ&hl=en) ###
+* I published at many top international conferences, including AAAI, IJCAI, ECAI, ECCV, AI-STATS and ICDM 
+* I also published at many prestigeous IEEE Transactions: IEEE-(T-NNLS, T-Image Processing, T-Signal Processing, T-KDE, T-Mobile Computing and T-Cybernetics).
+* I have co-authored with many world-leading scholars, including [Chair Prof Arnoud Doucet](http://www.stats.ox.ac.uk/~doucet/) of Oxford University & DeepMind, [Prof Zoubin Gharamanni](http://mlg.eng.cam.ac.uk/zoubin/) of Cambridge University & Chief Scientist of Uber, and [Prof Yike Guo](https://www.imperial.ac.uk/people/y.guo) of Imperial College of London & Fellow of the Royal Academy of Engineering. 
+
+### [11. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
+Last but definitely not least, my world-famous constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 5000 GitHub stars!  
+10% of the materials were recorded in Mandarin-speaking videos in 2015 and became viral.
+* [YouTube link](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) has 5500+ subscribers!
+* [Bilibili link](https://space.bilibili.com/327617676/) has 1500+ subscribers!
 
