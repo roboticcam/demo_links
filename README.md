@@ -28,7 +28,7 @@ Between 2006 to 2009, I have built at least a dozen state-of-the-art AI systems 
 Fortunately, since 2017, I finally have a laboratory space at UTS to continue computer vision. These are some examples of resume work for my postdoctoral and PhD students:
 
 * [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2019 developed by my research and engineering team. You can see this is a modern version of what I built previously (now using Deep Learning!)
-* [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), my student's work, published in ECCV 2020.
+* [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), published by my student, Taohui (Carter) Huang Cong in ECCV 2020.
 
 ### [7. Deep Learning Sydney meetup group](https://www.meetup.com/Deep-Learning-Sydney/) ###
 This is one of the largest AI-focused meetup group I founded (together with my co-founder) in 2016. It has close to 4500 members. It is comprised of industry data scientists, scholars, researchers, start-ups and also talent recruiters.
