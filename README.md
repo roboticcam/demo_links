@@ -1,4 +1,4 @@
-In the past 15 years, my talented team and I have developed many research and engineering prototypes, demos, research notes and commercial projects. (see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf)). Because of such a long time span, our digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
+In the past 15 years, my talented team and I have developed many research, engineering prototypes, demos, research notes and commercial projects. (see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf)). Because of such a long time span, our digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
 
 ### [1. Cloud demo: ridll.com](http://ridll.com) ###
 **RIDLL** is an acronym for **Ri**chard Xu's **D**eep **L**earning **L**ab: This Cloud based demo website has about nine research demos developed by my talented team since 2016. Some notable examples include:  
