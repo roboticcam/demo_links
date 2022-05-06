@@ -1,5 +1,4 @@
-* Firstly, please see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf)
-* as well as see my [brief bio](https://github.com/roboticcam/files/blob/main/bio.pdf)
+* Firstly, please see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf) as well as see my [brief bio](https://github.com/roboticcam/files/blob/main/bio.pdf)
 
 In the past 15 years, my talented team and I have developed many research, engineering prototypes, demos, research notes and commercial projects. . Because of such a long time span, our digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
 
