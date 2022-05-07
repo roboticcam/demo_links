@@ -53,7 +53,7 @@ I am super connected with industry in Australia and internationally. In the past
 * In 2019, I am honored to be invited by [Professor Horst Stocker](https://www.fias.science/de/fellows/detail/stoecker-horst/) of the [Frankfurt Institute for Advanced Research](https://www.fias.science/) to conduct a 2-hour machine learning course/seminar, together with other well-known scholars in machine learning, theoretical physics and other science topics, including [Prof Christiane Nüsslein-Volhard](https://en.wikipedia.org/wiki/Christiane_N%C3%BCsslein-Volhard), a Nobel Prize winner.
 
 ### [12. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
-Last but definitely not least, my world-famous constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 5000 GitHub stars!  
+Last but definitely not least, my world-famous constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 6300 GitHub stars!  
 10% of the materials were recorded in Mandarin-speaking videos in 2015 and became viral.
 * [YouTube link](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) has 6000+ subscribers!
 * [Bilibili link](https://space.bilibili.com/327617676/) has 18000+ subscribers!
