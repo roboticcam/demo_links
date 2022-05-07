@@ -55,5 +55,5 @@ I am super connected with industry in Australia and internationally. In the past
 ### [12. My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
 Last but definitely not least, my world-famous constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 5000 GitHub stars!  
 10% of the materials were recorded in Mandarin-speaking videos in 2015 and became viral.
-* [YouTube link](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) has 5500+ subscribers!
-* [Bilibili link](https://space.bilibili.com/327617676/) has 15000+ subscribers!
+* [YouTube link](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) has 6000+ subscribers!
+* [Bilibili link](https://space.bilibili.com/327617676/) has 18000+ subscribers!
