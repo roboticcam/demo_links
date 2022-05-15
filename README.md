@@ -33,8 +33,9 @@ Fortunately, since 2017, I finally have a laboratory space at UTS to continue co
 * [My lab team's video demo](https://www.youtube.com/channel/UChLPFBeNlA0arPTrCor3tTg), circa 2017-2019 developed by my research and engineering team. You can see this is a modern version of what I built previously (now using Deep Learning!)
 * [Marker less mulitple people tracking](https://www.youtube.com/watch?v=K-ivo10gvUo), published by my student, Taohui (Carter) Huang Cong in ECCV 2020.
 
-### [7. Deep Learning Sydney meetup group](https://www.meetup.com/Deep-Learning-Sydney/) ###
-This is one of the largest AI-focused meetup group I founded (together with my co-founder) in 2016. It has close to 4500 members to-date. Its members are comprised of industry data scientists, scholars, researchers, start-ups and also talent recruiters. We are proud to have a series of sponsors for the meetup (for venues and catering), including Google, AWS, Deloitte, KPMG, QBE, Atlassian and Servian. And a series of internationally well-known speakers from industry and academia.
+### [7. Global Machine Learning meetup community](https://www.meetup.com/Deep-Learning-Sydney/) ###
+In 2016, I started (with my co-founder) one of the largest global meetup groups focused on AI knowledge sharing. To date, it has nearly 5,200 members. Its members include industry data scientists, academics, researchers, start-ups, and talent recruiters. We are proud to have a range of sponsors (for venues and catering) including Google, AWS, Deloitte, KPMG, QBE, Atlassian and Servian. and a range of internationally renowned speakers from industry and academia. In 2022, I have expanded it to [Sydney (flagship)](https://www.meetup.com/Deep-Learning-Sydney/), [Hong Kong](https://www.meetup.com/machine-learning-hong-kong/), [Melbourne](https://www.meetup.com/Deep-Learning-Melbourne/) and [Athens](https://www.meetup.com/machine-learning-athens/). I am actively looking for co-organizers in these cities.
+
 
 ### [8. My LinkedIn](https://www.linkedin.com/in/richard-xu-0221a943/) ###
 I am super connected with industry in Australia and internationally. In the past five years, I have interacted with at least 136 companies in ASX200. I have 12,000+ LinkedIn contacts.
