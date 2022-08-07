@@ -1,10 +1,10 @@
 ### Achivement Summary and Bio ###
 Firstly, please see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf) as well as my [brief bio](https://github.com/roboticcam/files/blob/main/bio.pdf)
 
-In the past 15 years, my talented team and I have developed many research, engineering prototypes, demos, research notes and commercial projects. . Because of such a long time span, our digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
+I started research 20 years ago mostly working alone, until 2016 when I started building a very large team. We have developed many research, engineering prototypes, demos, research notes and commercial projects. Because of such a long time span, my (our) digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
 
 ### [My continously updated machine learning notes](https://github.com/roboticcam/machine-learning-notes) ###
-Firstly my constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 6300 GitHub stars!  
+Firstly my constantly updated machine learning notes! It has 46 traditional and emerging research topics, and currently has 6600 GitHub stars!  
 10% of the materials were recorded in Mandarin-speaking videos in 2015 and became viral.
 * [YouTube link](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q) has 6000+ subscribers!
 * [Bilibili link](https://space.bilibili.com/327617676/) has 18000+ subscribers!
