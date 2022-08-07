@@ -39,6 +39,8 @@ When I was 30 years old working at Charles Sturt University as a lectuer in 2008
 * [Web Tool for optimal maintenance planning using TSM algorithm](http://ridll.com/activequery/) a software tool (complete with web interface) to compute the most cost effective maintenance schedule using Travelling Salesman's Algorithm. Completed in 2020.
 * [Natural Language to SQL Translation](http://ridll.com/nlp2sql/) completed in 2016.
 
+some of the links do not work due to changes in Google API.
+
 ### [World Champion in IEEE Games Conference's Micro-RTS competition](https://sites.google.com/site/micrortsaicompetition/competition-results/2019-cog-results) ###
 In 2019, my postdoctoral fellow Dr. Jason Traish led a team of my PhD students to win the IEEE Games Conference's Micro-RTS competition. Our Reinforcement Learning based AI bot, **UTS_Imass** has a significantly higher win rate compare to the second best team. 
 You can visit the official website of IEEE Games Conference [https://ieee-cog.org/2019/competitions_conference/](https://ieee-cog.org/2019/competitions_conference/) then click the "Competition Site" link to browse the above Goolge document in the same way.
