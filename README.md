@@ -1,5 +1,5 @@
 ### Achivement Summary and Bio ###
-Firstly, please see my [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf) as well as my [brief bio](https://github.com/roboticcam/files/blob/main/bio.pdf)
+Firstly, please see my [description PPT](https://github.com/roboticcam/files/blob/main/about_xu.pdf), [achievement summary](https://github.com/roboticcam/files/blob/main/summary.pdf), [brief bio](https://github.com/roboticcam/files/blob/main/bio.pdf)
 
 I started research 20 years ago mostly working alone, until 2016 when I started building a very large team. We have developed many research, engineering prototypes, demos, research notes and commercial projects. Because of such a long time span, my (our) digital footprint is all over the web. Therefore, I organized them into a single repository. Please click these links below:
 
